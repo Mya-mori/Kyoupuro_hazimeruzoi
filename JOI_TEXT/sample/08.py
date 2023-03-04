@@ -9,4 +9,4 @@ while sum < C:
     if count % 7 == 0:
         sum += B
 
-print(count)   
+print(count)
